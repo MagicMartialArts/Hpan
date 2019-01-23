@@ -1,0 +1,15 @@
+name: MagicMartialArts
+main: mian.Main
+version: 1.0
+author: shixiong_by_qq_57974109
+#depend: [BetonQuest]
+#softdepend: [HolographicDisplays]
+#depend:
+commands:
+   mma:
+      description: MMA command
+      usage: /<command>
+      aliases: [ma]
+#permissions:
+#   levelrank.reload:
+#      default: op
